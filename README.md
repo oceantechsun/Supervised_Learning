@@ -8,7 +8,10 @@ Georgia Institute of Technology
 Supervised Learning assignment for CS 7641
 
 
-In order to run this assignment, simply download all files in the repository to your personal machine.
+
+In order to run this assignment, visit https://github.com/oceantechsun/Supervised_Learning
+
+Download all files in the repository to your personal machine.
 
 Open the terminal and go to the location they were downloaded.
 
